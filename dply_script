@@ -4,3 +4,4 @@ apt-get update
 apt-get -y upgrade
 curl -sL https://deb.nodesource.com/setup_7.x | sudo -E bash -
 apt-get install -y nodejs
+git clone https://github.com/alenares/mtv mylibgit
